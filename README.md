@@ -7,7 +7,8 @@
 # Overview
 The software assessment was divided into two parts. For the sake of simplicity, each part was made into its own individual project. 
 The challenge was coded using Java16 in its entirety. This repository contains the first part of the project. Here, you can find the
-source code, as well as a .bat and a runnable .jar file for easy execution.
+source code, as well as a .bat and a runnable .jar file for easy execution. The rest of the project documentation, including an algorithm 
+explanation and a system synopsis, can also be found in the repository.
 
 Upon execution, a window will show displaying a 20x20 grid of `MyButton` squared buttons. The user can click a button and drag the 
 cursor to display a dynamically-sized circle. Upon releasing the mouse click, an algorithm will map the circle to the squared buttons 
